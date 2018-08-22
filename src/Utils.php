@@ -8,7 +8,7 @@ declare(strict_types=1);
  * @link    <https://github.com/crystal-framework/two-factor-auth> Source Code,
  */
 
-namespace Crystal\Framework\Plugin\Auth\TwoFactor;
+namespace Crystal\Framework\Auth\TwoFactor;
 
 /**
  * This contains tools for the two-factor authentication method.
