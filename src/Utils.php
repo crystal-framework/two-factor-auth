@@ -11,7 +11,7 @@ declare(strict_types=1);
 namespace Crystal\Framework\Auth\TwoFactor;
 
 /**
- * This contains tools for the two-factor authentication method.
+ * This contains helper tools for two-factor authentication.
  */
 class Utils
 {
